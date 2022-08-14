@@ -1,0 +1,17 @@
+{
+  "name": "the-notion",
+  "version": "1.0.0",
+  "repository": "https://github.com/GBLodb/the-notion",
+  "author": "Gary Bryson Luis Jr. <garybluis@outlook.com>",
+  "license": "MPL-2.0",
+  "private": true,
+  "scripts": {
+    "pages:dev": "vitepress dev pages",
+    "pages:build": "vitepress build pages",
+    "pages:serve": "vitepress serve pages"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.4",
+    "vue": "^3.2.37"
+  }
+}
